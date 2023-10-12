@@ -9,6 +9,9 @@ public class Product {
         this.stock = stock;
     }
 
+    public Product(){
+    }
+
     public double getPrice() {
         return price;
     }
